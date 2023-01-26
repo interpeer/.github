@@ -1,5 +1,7 @@
 # Welcome
 
+![Interpeer Project](interpeer_header.png "Interpeer Project")
+
 The Interpeer Project is not available on GitHub.
 
 | Site             | Location |
