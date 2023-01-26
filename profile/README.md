@@ -10,3 +10,4 @@ The Interpeer Project is not available on GitHub.
 | **Code**         | https://codeberg.org/interpeer/ |
 | **Specs**        | https://specs.interpeer.io/ | 
 | **Mailing List** | https://lists.interpeer.io/ |
+| **Donate**       | https://interpeer.io/donations/ |
