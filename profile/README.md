@@ -1,6 +1,6 @@
 # Welcome
 
-![Interpeer Project](interpeer_header.png)
+![Interpeer Project](./interpeer_header.png)
 
 The Interpeer Project is not available on GitHub.
 
